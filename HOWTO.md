@@ -1,3 +1,8 @@
+<p align="center">
+<a href="https://drive.google.com/file/d/1WvBcGAfu6s7g-eTRLQ8s7OOg0TExC-lF/view" target="_blank">
+   <img src="https://raw.githubusercontent.com/pierluigi/pierluigi/master/thumbnail.png" width="580" />
+</a>
+</p>
 
 [![Webinar](/thumbnail.png "GitHub Actions and Siri Demo")](https://drive.google.com/file/d/1WvBcGAfu6s7g-eTRLQ8s7OOg0TExC-lF/view)
 
